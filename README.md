@@ -23,8 +23,8 @@ Installation: git clone https://github.com/Jensen654/se_project_react.git
 Installation: git clone https://github.com/Jensen654/se_project_express.git
 
 # [se_project_aroundtheus](https://github.com/Jensen654/se_project_aroundtheus)
-[GitHub Pages Demo](https://jensen654.github.io/se_project_aroundtheus/)
-[Video Demo](https://youtu.be/4ypwAk8-iDg)
+-[GitHub Pages Demo](https://jensen654.github.io/se_project_aroundtheus/)
+-[Video Demo](https://youtu.be/4ypwAk8-iDg)
 
 Installation: git clone https://github.com/Jensen654/se_project_aroundtheus.git
 
