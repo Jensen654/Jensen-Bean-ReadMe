@@ -29,3 +29,6 @@ Installation: git clone https://github.com/Jensen654/se_project_express.git
 Installation: git clone https://github.com/Jensen654/se_project_aroundtheus.git
 
 This project was early on in my schooling. It works with an external api provided by TripleTen. It was built using responsive design and allows for user generated content, it was built using JavaScript, HTML, and CSS almost solely.
+
+# Links to Personal Project Demos
+-[Read Ebooks to me - A MacroDroid Project](https://youtu.be/8gTbEuzrHhY)
