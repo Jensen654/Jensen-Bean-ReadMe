@@ -15,6 +15,8 @@ Installation: git clone https://github.com/Jensen654/se_project_final-frontend.g
 Developed, researched, and designed solely by me. This was my final undertaking as a part of my school. I worked with a third party api (PokeApi), and implemented some basic user recognition via browser cookies. It has been optimized for all screen sizes. Built with React, Vite, JS, HTML/CSS, JSX and more.
 
 # Full Stack Project
+[Live Site Using Netlify, Render.com, and MongoDB Atlas](https://whimsical-kangaroo-a94316.netlify.app/)
+
 Developed using a figma design as well as a design document provided by TripleTen, this project taught me how to fully develop and deploy a website from the ground up. It incorporates secure data transfer and encryption, storing user data on a remote server with a fully functioning api interface. It was built using express, node.js, MongoDB, React, JavaScript, HTML/CSS, JSX, Mongoose, and more. I deployed it to google servers using a free trial. I learned how to build and maintain a server. Browser Routes are only accessible via user authentication on both the front and back ends of the project.
 
 --[Frontend](https://github.com/Jensen654/se_project_react)
