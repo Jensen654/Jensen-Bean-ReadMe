@@ -8,7 +8,7 @@ All current and future projects completed by Jensen Bean
 My name is Jensen Bean, I am a Full Stack Web Developer from West Jordan UT. I just completed a course at TripleTen where I gained experience in creating both frontends and backends to websites and deploying those sites to google servers and github pages. I have always been interested in problem solving and logic problems, and I'm so glad I found my niche here. I love the work I've done and I love how challenging and complex it can be. I also have creative endeavours. I have been involved in many theatrical productions over the past couple years and I love to perform. I play multiple instruments and sing as well.
 
 # [se_project_final-frontend](https://github.com/Jensen654/se_project_final-frontend)
-[GitHub Pages Demo](https://jensen654.github.io/se_project_final-frontend/)
+[GitHub Pages Live Site](https://jensen654.github.io/se_project_final-frontend/)
 
 Installation: git clone https://github.com/Jensen654/se_project_final-frontend.git
 
