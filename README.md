@@ -1,8 +1,8 @@
 # Jensen-Bean-ReadMe
-All current and future projects completed by Jensen Bean
-[Main GitHub](https://github.com/Jensen654)
-[LinkedIn](https://www.linkedin.com/in/jensen-bean-375b4227b/)
-[YouTube](https://www.youtube.com/channel/UCjQ92hNfXkfjvkt2LVZriIQ)
+All current and future projects completed by Jensen Bean </br
+[Main GitHub](https://github.com/Jensen654)</br>
+[LinkedIn](https://www.linkedin.com/in/jensen-bean-375b4227b/)</br>
+[YouTube](https://www.youtube.com/channel/UCjQ92hNfXkfjvkt2LVZriIQ)</br>
 
 # About Me
 My name is Jensen Bean, I am a Full Stack Web Developer from West Jordan UT. I just completed a course at TripleTen where I gained experience in creating both frontends and backends to websites and deploying those sites to google servers and github pages. I have always been interested in problem solving and logic problems, and I'm so glad I found my niche here. I love the work I've done and I love how challenging and complex it can be. I also have creative endeavours. I have been involved in many theatrical productions over the past couple years and I love to perform. I play multiple instruments and sing as well.
