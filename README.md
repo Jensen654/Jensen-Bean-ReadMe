@@ -1,5 +1,5 @@
 # Jensen-Bean-ReadMe
-All current and future projects completed by Jensen Bean </br
+All current and future projects completed by Jensen Bean </br>
 [Main GitHub](https://github.com/Jensen654)</br>
 [LinkedIn](https://www.linkedin.com/in/jensen-bean-375b4227b/)</br>
 [YouTube](https://www.youtube.com/channel/UCjQ92hNfXkfjvkt2LVZriIQ)</br>
